@@ -1,4 +1,8 @@
-# Wakeel Desk: case management for law firms in Pakistan
+# Agli Tareekh: case management for law firms in Pakistan
+
+![Agli Tareekh](agli-tareekh-banner.png)
+
+*Har peshi yaad. Har case tayyar.*
 
 A subscription web app for advocates and law firms, built for Karachi first and then other Pakistani cities. It runs the whole chambers in one place: cases, court dates, files, junior lawyers, fees, and a drafting assistant that prepares pleadings in the format Pakistani courts expect. Clients follow their case from their phone.
 
